@@ -1,0 +1,14 @@
+#xs{
+    font-size: small;
+}
+fieldset{
+    width: fit-content;
+    height: fit-content;
+margin:50px;
+position:relative;
+left:400px;
+}
+#r1,#r2,#r3,#r4{
+    background-color: rgb(143, 197, 197);
+    background-repeat:no-repeat ;
+}
